@@ -7,7 +7,7 @@ Welcome to the **TestCaseWriting** repository for the **Book Valley** project! T
 The **Book Valley** project aims to provide a seamless platform for book management. To ensure the platform's quality, a comprehensive set of test cases was developed and executed by **Kawsar Newaz Chowdhury**.
 
 - **Product Name:** Book Valley
-- **Test Executed By:**Kawsar Newaz Chowdhury
+- **Test Executed By:** Kawsar Newaz Chowdhury
 - **Developer:**
 - **Test Start Date:** 2024-08-29
 - **Test End Date:** 2024-09-07
