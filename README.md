@@ -1,6 +1,6 @@
 # TestCaseWriting
 
-This repository contains the test cases for the **Book Valley** project. The test cases are developed to ensure the quality and functionality of the application. The test execution was done by Istimam Hossen Akib.
+This repository contains the test cases for the **Book Valley** project. The test cases are developed to ensure the quality and functionality of the application. The test execution was done by Kawsar Newaz Chowdhury.
 
 ## Test Summary
 
